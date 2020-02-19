@@ -7,8 +7,7 @@
 - NodeJS
 - NPM or Yarn
 - Basic knowledge in JS
-- Google Account and Dialogflow V2 Agent (if you look for V1, please use my [old repo](https://github.com/mishushakov/dialogflow-web))
-
+- Google Account and Dialogflow V2 Agent
 
 ## Get the dependencies
 
